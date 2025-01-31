@@ -23,7 +23,7 @@ Ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd valorant-pro-match-analysis
+   cd Valorant-Pro-Match-Analysis
    ```
 3. Install dependencies:
    ```sh
